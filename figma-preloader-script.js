@@ -1,4 +1,9 @@
 /* VOLT preloader Figma rebuild — SLIM MARKS concept (v3, matches the reference video frame).
+ * NOTE (v4): the live site now uses AI-generated artwork (lib/photos/preloader-a.ts)
+ * rendered full-screen by components/Preloader.tsx — the generated frame matches
+ * the reference exactly (pure black, three slim glowing slashes, light bursting
+ * from within the marks, haze above, sparks). The vector rebuild below remains as
+ * an editable fallback if he ever wants native layers; no rebuild needed for v4.
  * Run when the Figma MCP Starter-plan allowance resets.
  *
  * Command (from any shell with the figma CLI connected):

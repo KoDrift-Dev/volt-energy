@@ -4,6 +4,8 @@ import HERO_BG_A from "./photos/hero-bg-a";
 import HERO_BG_B from "./photos/hero-bg-b";
 import WAVE from "./photos/wave";
 import CAN from "./photos/can";
+import PRELOADER_A from "./photos/preloader-a";
 export const VOLT_HERO_BG = ("data:image/jpeg;base64," + HERO_BG_A + HERO_BG_B) as string;
 export const VOLT_WAVE = WAVE;
 export const VOLT_CAN = CAN;
+export const VOLT_PRELOADER = ("data:image/jpeg;base64," + PRELOADER_A) as string;
