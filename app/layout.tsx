@@ -28,6 +28,7 @@ export const metadata: Metadata = {
   title: "VOLT Energy — Ignite Your Pulse",
   description:
     "VOLT Energy drink. Fearless flavour, raw caffeine, zero compromise. Ignite your pulse.",
+  themeColor: "#000000",
 };
 
 export default function RootLayout({
