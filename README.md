@@ -30,3 +30,7 @@ npm run build
 - `components/AthletesStrip.tsx` — disciplines strip
 - `components/Footer.tsx` — giant wordmark, link columns, legal bar
 - `public/assets/` — `hero-bg.jpg`, `can.png`, `wave.jpg`
+
+## Live Demo
+
+https://volt-energy-lemon.vercel.app
