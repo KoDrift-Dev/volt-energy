@@ -34,3 +34,7 @@ npm run build
 ## Live Demo
 
 https://volt-energy-lemon.vercel.app
+
+## Tech Stack
+
+`Next.js 16` `Tailwind CSS v4` `Framer Motion`
